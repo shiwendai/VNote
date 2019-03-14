@@ -1,0 +1,24 @@
+{
+    "created_time": "2018-06-04T08:03:59Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2018-06-04T08:04:09Z",
+            "modified_time": "2018-06-04T08:15:44Z",
+            "name": "java new file 使用相对路径读取文件.md"
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2018-06-04T11:18:19Z",
+            "modified_time": "2018-06-04T11:18:19Z",
+            "name": "web项目读取classpath下面文件心得总结.md"
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}
